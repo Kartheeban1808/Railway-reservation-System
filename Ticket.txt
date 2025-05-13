@@ -1,0 +1,26 @@
+------------------------------------------e-Ticketing Services---------------------------------------
+--------------------------------Electronic Reservation Slip (Personal User)--------------------------
+-----------------------------------------------------------------------------------------------------
+PNR No                   : 86021581
+Transaction ID           : 20221101
+Boarding At              : NZM
+Reservation Upto         : JHS
+Passenger Mobile Number  : 32656589
+Train details            : 5. Shatabdi Express(NDLS<->BPL)         12002         09:10am         09:15am
+Date and time of Booking : Fri Nov 04 23:04:50 IST 2022
+Date of Journey          :
+-----------------------------------------------------------------------------------------------------
+
+FARE DETAILS : 
+-----------------------------------------------------------------------------------------------------
+Ticket Fare per person   : Rs. 2045
+Service Charge           : Rs.   40
+Total Fare               : Rs. 2085
+-----------------------------------------------------------------------------------------------------
+
+PASSENGER DETAILS : 
+-----------------------------------------------------------------------------------------------------
+Sr.No.  Name                       Age       Gender       Current Status
+1   Samn fjasfhj              21   djasjCONFIRMED
+
+Thank you for using our Services.

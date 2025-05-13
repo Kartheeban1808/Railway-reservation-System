@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------
+					  	  TRAIN SCHEDULE
+-----------------------------------------------------------------------------------------
+Sr.	   Train Name                          Train Number  Arrival Time   Departure Time
+-----------------------------------------------------------------------------------------
+
+1.  Rajdhani Express    (NZM<->MAS)       	12741        20:25pm         20:30pm
+2.  Telangana Express   (NDLS<->HYD)     		12852        15:10pm         15:15pm
+3.  Tamil Nadu Express  (NDLS<->MGR)    		12123        12:34pm         12:39pm
+4.  Duronto Express     (NGP<->CSMT)     		12600         -----          20:40pm
+5.  Sewagram Express    (NGP<->CSMT)     		12852         -----          21:15pm
+6.  Garib Rath Express	(HWR<->CSMT)   		12223        17:07pm         17:10pm
+7.  Rajdhani Express	(NZM<->MAS)          	12741        20:25pm         20:30pm
+8.  Telangana Express	(NDLS<->HYD)        	12852        21:45pm         21:55pm
+9.  Tamil Nadu Express	(NDLS<->MGR)       	12123        12:34pm         12:39pm
+10. Rajdhani Express	(NZM<->CSMT)         	22222        20:25pm         20:30pm
+11. Shatabdi Express	(NDLS<->BPL)         	12002        09:10am         09:15am
+12. S.Kranti(UP) Express(NZM<->MKP)      		12123        01:30am         01:37am
+13. RAJDHANI EXPRESS	(CSMT<->DL)           	12951        16:35pm         08:35am
+14. SHATABDI EXPRESS	(WB<->CHG)			12019		 06:05am	     13:15pm
+15. Tamil Nadu Express	(NDLS<->CSMT)       	12103        11:34pm         13:39pm
+-----------------------------------------------------------------------------------------
+
+ISSUED BY - E-RAILWAY SERVICE SYSTEM
